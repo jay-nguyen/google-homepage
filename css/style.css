@@ -1,0 +1,26 @@
+a:link, :visited {
+	font-family: Arial, sans-serif;
+	text-decoration: none;
+}
+
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+.nav {
+	float: right;
+}
+
+.footer-left {
+	float: left;
+}
+
+.footer-right {
+	float: right;
+}
+
+li {
+	display: inline;
+}
